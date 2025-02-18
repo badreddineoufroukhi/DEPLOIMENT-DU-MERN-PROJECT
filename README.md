@@ -25,3 +25,24 @@
 -  Gère **Backend** (Node.js) + **Frontend** (React) + **MongoDB Atlas**.  
 -  **Facile à configurer** (déploiement avec GitHub).  
 ![image](https://github.com/user-attachments/assets/fd01dc04-47c3-49f0-b850-e29cf37fd661)
+### 🚀 Problème de la version gratuite 
+
+1. Inactivité et Mise en Veille
+
+- **Problème** : Si le CRM reste inactif pendant 15 minutes, Render met l'application en veille, ce qui arrête temporairement le serveur.
+
+- **Impact** : Lorsqu'un utilisateur tente de se reconnecter après la mise en veille, un temps de démarrage (jusqu'à 1 minute) est nécessaire pour redémarrer l'application.
+
+2. Quotas d'Utilisation
+
+- **Heures de fonctionnement** : 750 heures par mois, ce qui permet un fonctionnement continu jusqu'à épuisement du quota.
+
+- **Bande passante** : Limites sur la quantité de données envoyées, mais suffisantes pour un petit projet.
+
+3. Base de Données - MongoDB Atlas
+
+Le CRM utilise MongoDB Atlas comme base de données pour stocker les informations des utilisateurs et des interactions.
+- MongoDB Atlas offre un plan gratuit avec 512 Mo de stockage. Ce plan est parfait pour des petits projets, comme un CRM, et permet de gérer tes données dans le cloud.
+- Tu peux connecter ta base de données MongoDB Atlas à ton backend Node.js déployé sur Render, ce qui fait fonctionner ton CRM avec une base de données en ligne.
+![image](https://github.com/user-attachments/assets/47b743f6-f4ad-4a3c-8ff4-9c73a798e41a)
+
