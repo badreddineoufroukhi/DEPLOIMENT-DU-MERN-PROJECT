@@ -121,7 +121,7 @@
 ![image](https://github.com/user-attachments/assets/4a84a651-43d9-4c3d-b5d8-ac880b24853c)
 ![image](https://github.com/user-attachments/assets/93bce558-ea82-4a4e-bb85-a0f4c98136f5)
 
-### 🚀 Créer un dépôt GitHub pour le projet afin de pouvoir gérer le code source et faciliter la collaboration :
+### 🚀 Créer un dépôt GitHub pour le projet afin de pouvoir gérer le code source et faciliter la collaboration
 
 ![image](https://github.com/user-attachments/assets/23fb127e-c869-4dd5-9a88-d3aab9e5ac06)
 ![image](https://github.com/user-attachments/assets/48bcc45a-12b1-4288-96b6-705e2bcee53b)
