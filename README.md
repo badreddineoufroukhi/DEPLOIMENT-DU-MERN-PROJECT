@@ -2,7 +2,7 @@
 
 ## Table des matières
 
-1. [Les plateformes qu’on peut utiliser](#I-Les-plateformes-qu)
+1. [Les plateformes qu’on peut utiliser](#I-Les-plateformes-que-on-peut-utiliser)
 2. [Java Core Interview Questions - Coding Standards](#Java-Core-Interview-Questions---Coding-Standards)
 3. [Java Exception Handling Interview Questions](#Java-Exception-Handling-Interview-Questions)
 4. [OOP Concepts Interview Questions](#OOP-Concepts-Interview-Questions)
@@ -12,7 +12,7 @@
 
 ---
 
-## I. Les plateformes qu'on peut utiliser
+## I. Les plateformes que on peut utiliser
 
 ### 1. Frontend (React)
 - **Vercel ou Netlify** : Facile et rapide, ces plateformes s'occupent de tout et sont très simples à utiliser.
