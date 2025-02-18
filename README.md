@@ -1,5 +1,4 @@
 # DEPLOIMENT-DU-MERN-PROJECT
-# Deployment Guide
 
 ## Les plateformes qu’on peut utiliser
 
