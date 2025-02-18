@@ -20,7 +20,7 @@
 
 ## II. La meilleure plateforme
 
-### Render  
+### 🚀 Render  
 -  **Gratuit** pour les petits projets.  
 -  Gère **Backend** (Node.js) + **Frontend** (React) + **MongoDB Atlas**.  
 -  **Facile à configurer** (déploiement avec GitHub).  
