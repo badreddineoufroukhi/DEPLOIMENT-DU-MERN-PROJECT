@@ -1,6 +1,6 @@
-# DEPLOIMENT-DU-MERN-PROJECT
+# DEPLOIMENT DU MERN PROJECT
 
-## Les plateformes qu’on peut utiliser
+## I. Les plateformes qu’on peut utiliser
 
 ### 1. Frontend (React)
 - **Vercel ou Netlify** : Facile et rapide, ces plateformes s'occupent de tout et sont très simples à utiliser.
@@ -18,3 +18,10 @@
 
 ---
 
+## II. La meilleure plateforme
+
+### Render  
+-  **Gratuit** pour les petits projets.  
+-  Gère **Backend** (Node.js) + **Frontend** (React) + **MongoDB Atlas**.  
+-  **Facile à configurer** (déploiement avec GitHub).  
+![image](https://github.com/user-attachments/assets/fd01dc04-47c3-49f0-b850-e29cf37fd661)
