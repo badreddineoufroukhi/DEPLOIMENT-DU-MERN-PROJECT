@@ -53,11 +53,18 @@
 
 ### 🚀 MONGODB ATLAS (https://www.mongodb.com/atlas):
 •	Pour débuter avec la version gratuite de MongoDB Atlas (FREE) :
+
 ![image](https://github.com/user-attachments/assets/dac1e9f7-d79d-4274-a434-aafa64d6b86c)
+
 •	Remplir le formulaire d'inscription ou utiliser un compte Google directement :
+
 ![image](https://github.com/user-attachments/assets/028fd44a-6481-4d21-8454-8a2c0866c71a)
+
 •	Accepter les politiques de MongoDB :
+
 ![image](https://github.com/user-attachments/assets/eca09e05-86d5-4d97-8873-1d55de62fc0e)
+
 •	Remplir les informations générales sur mon objectif et mon projet d'utilisation de MongoDB Atlas :
+
 ![image](https://github.com/user-attachments/assets/0ca22e26-4539-4987-8f23-7a6571b2db24)
 
