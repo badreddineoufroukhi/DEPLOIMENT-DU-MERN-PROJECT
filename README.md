@@ -6,7 +6,7 @@
 2. [La meilleure plateforme](#II-La-meilleure-plateforme)
 3. [Implémentation](#III-Implémentation)
    - [MONGODB ATLAS](#III-Implémentation)
-   - [Créer un dépôt GitHub](#Créer-un-dépôt-GitHub-pour-le-projet-afin-de-pouvoir-gérer-le-code-source-et-faciliter-la-collaboration-:)
+   - [Créer un dépôt GitHub](#Créer-un-dépôt-GitHub-pour-le-projet-afin-de-pouvoir-gérer-le-code-source-et-faciliter-la-collaboration)
    
 
 
