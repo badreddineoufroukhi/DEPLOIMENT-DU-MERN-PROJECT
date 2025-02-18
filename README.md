@@ -5,10 +5,6 @@
 1. [Les plateformes qu’on peut utiliser](#I-Les-plateformes-qui-on-peut-utiliser)
 2. [La meilleure plateforme](#II-La-meilleure-plateforme)
 3. [Implémentation](#III-Implémentation)
-   - [MONGODB ATLAS](#III-Implémentation)
-   - [Créer un dépôt GitHub](#Créer-un-dépôt-GitHub-pour-le-projet-afin-de-pouvoir-gérer-le-code-source-et-faciliter-la-collaboration)
-   
-
 
 ---
 
