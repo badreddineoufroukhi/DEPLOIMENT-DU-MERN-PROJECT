@@ -1,6 +1,18 @@
 # DEPLOIMENT DU MERN PROJECT
 
-## I. Les plateformes qu’on peut utiliser
+## Table des matières
+
+1. [Les plateformes qu’on peut utiliser](#I-Les-plateformes-qu)
+2. [Java Core Interview Questions - Coding Standards](#Java-Core-Interview-Questions---Coding-Standards)
+3. [Java Exception Handling Interview Questions](#Java-Exception-Handling-Interview-Questions)
+4. [OOP Concepts Interview Questions](#OOP-Concepts-Interview-Questions)
+5. [Java Core Serialization Interview Questions](#Java-Core-Serialization-Interview-Questions)
+6. [Questions d'entretien Java sur les Threads](#Questions-entretien-Java-sur-les-Threads)
+7. [Questions d'entretien Java sur le Framework de Collections](#Questions-entretien-Java-sur-le-Framework-de-Collections)
+
+---
+
+## I. Les plateformes qu'on peut utiliser
 
 ### 1. Frontend (React)
 - **Vercel ou Netlify** : Facile et rapide, ces plateformes s'occupent de tout et sont très simples à utiliser.
