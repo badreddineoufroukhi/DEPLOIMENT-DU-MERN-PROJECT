@@ -146,6 +146,7 @@
 ##### L'URL fait référence au serveur hébergé sur la plateforme Render, accessible via HTTPS.
 
 ![image](https://github.com/user-attachments/assets/baf01e81-eef7-40bc-a7f6-eea26450d733)
+
 ==> On va changer http://localhost:5000 par L’URL dans le REPÔT FRONT  
 
 #### •	Static Site (FRONTEND) :  
